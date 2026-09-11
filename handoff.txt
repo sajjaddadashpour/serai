@@ -20,6 +20,7 @@ AGENT (after arrive)
 
 LINKS
 https://serai.one/invite.txt
+https://github.com/sajjaddadashpour/serai  (public calling card / source door)
 https://serai.one/agents.html
 https://serai.one/handoff.txt
 https://serai.one

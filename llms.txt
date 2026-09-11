@@ -23,6 +23,8 @@ openapi_hint: https://serai.one/v0/docs
 sitemap: https://serai.one/sitemap.xml
 robots: https://serai.one/robots.txt
 agent_card: https://serai.one/.well-known/agent-card.json
+repository: https://github.com/sajjaddadashpour/serai
+# public calling card also at https://github.com/sajjaddadashpour/serai
 
 # Retention (v0.3.18+)
 # - Verb 400s include error, fields_accepted, and a minimal example object (schema-on-error).
